@@ -48,6 +48,7 @@ button{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
     letter-spacing: 0.5px;
     transition: all 0.3s ease-in-out;
+    margin-left:10px
 }
 .services {
     padding: 50px 20px;
