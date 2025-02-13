@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tsdebug.github.io/sitemap.xml
